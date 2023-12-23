@@ -1,18 +1,18 @@
 # simple web server with node.js
 
-create a project folder
+### create a project folder:
 
 sudo mkdir jrz
 
 cd jrz
 
-install <a href="https://nodejs.org/en/download/">Node.JS</a>
+### install <a href="https://nodejs.org/en/download/">Node.JS</a>
 
-create a package.json
+### create a package.json
 
 npm init
 
-add a start script
+### add a start script
 
 <code>
 
@@ -22,7 +22,7 @@ add a start script
 
 </code>
 
-create a server.js
+### create a server.js
 
 sudo touch server.js
 
@@ -45,7 +45,7 @@ app.listen(PORT, () => {
 
 </code>
 
-start the web server 
+### start the web server 
 
 npm run start
 

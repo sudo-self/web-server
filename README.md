@@ -6,6 +6,9 @@ sudo mkdir jrz
 
 cd jrz
 
+![Screenshot 2023-12-23 at 3 27 49 AM](https://github.com/sudo-self/web-server/assets/119916323/b89517bd-73a0-40bd-9637-da84208a9df2)
+
+
 ### install <a href="https://nodejs.org/en/download/">Node.JS</a>
 
 ### create a package.json
@@ -48,6 +51,10 @@ app.listen(PORT, () => {
 ### start the web server 
 
 npm run start
+
+![Screenshot 2023-12-23 at 3 29 19 AM](https://github.com/sudo-self/web-server/assets/119916323/b26fbd27-d217-436b-b10a-12ad5b163028)
+
+
 
 https://localhost:8001
 

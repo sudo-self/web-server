@@ -82,9 +82,9 @@ sudo touch app.yaml
 runtime: nodejs16
 ```
 
-### Project Base<br>
-  app.yaml<br>
+### Project Folder<br>
   package.json<br>
-  server.js<br>
+  server.js<br> 
+  app.yaml<br>  
 
   

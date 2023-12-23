@@ -52,12 +52,9 @@ app.listen(PORT, () => {
 
 npm run start
 
-![Screenshot 2023-12-23 at 3 29 19 AM](https://github.com/sudo-self/web-server/assets/119916323/b26fbd27-d217-436b-b10a-12ad5b163028)
-
-
+![Screenshot 2023-12-23 at 3 29 43 AM](https://github.com/sudo-self/web-server/assets/119916323/a9ac057d-cf7e-4915-a6e6-039204fff232)
 
 https://localhost:8001
-
 
 ![npm start](https://github.com/sudo-self/web-server/assets/119916323/1423f479-a7d8-4b25-8c1b-f2531b2aaf61)
 

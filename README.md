@@ -93,4 +93,5 @@ sudo touch README.md
   app.yaml<br>
   README.md<br>
 
+This is minimal project base ready to scale
   

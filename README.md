@@ -12,9 +12,32 @@ cd jrz
 ### install <a href="https://nodejs.org/en/download/">Node.JS</a>
 
 ### create a package.json
-
 ```s
 npm init
+```
+```
+{
+  "name": "jrz",
+  "version": "1.0.0",
+  "description": "JRz Web-Server",
+  "main": "server.js",
+  "scripts": {
+   "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudo-self/web-server-app.git"
+  },
+  "keywords": [
+    "jrz"
+  ],
+  "author": "jesse roper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudo-self/web-server-app/issues"
+  },
+  "homepage": "https://github.com/sudo-self/web-server-app#readme"
+}
 ```
 ### add a start script
 ```s

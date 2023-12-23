@@ -1,4 +1,4 @@
-# web-server-app
+# web-server
 
 ### create a project folder
 ```s
@@ -8,6 +8,10 @@ cd jrz
 ```
 ### install <a href="https://nodejs.org/en/download/">Node.JS</a>
 
+### install express.js
+```s
+npm install express
+```
 ### create a package.json
 ```s
 npm init

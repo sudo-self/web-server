@@ -1,4 +1,4 @@
-# web-server
+# web-server-app
 
 ### create a project folder
 ```s

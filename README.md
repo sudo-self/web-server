@@ -78,7 +78,14 @@ https://localhost:8001
 
 ![npm start](https://github.com/sudo-self/web-server/assets/119916323/1423f479-a7d8-4b25-8c1b-f2531b2aaf61)
 
-### Project<br>
+### create app.yaml
+
+```
+sudo touch app.yaml
+runtime: nodejs16
+```
+
+### Project Base<br>
   app.yaml<br>
   package.json<br>
   server.js<br>

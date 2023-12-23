@@ -28,7 +28,7 @@ npm init
   "keywords": [
     "jrz"
   ],
-  "author": "jesse roper",
+  "author": "sudo-self",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sudo-self/web-server-app/issues"

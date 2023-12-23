@@ -2,9 +2,11 @@
 
 ### create a project folder
 
-Terminal: sudo mkdir jrz
+'''
+sudo mkdir jrz
 
-Terminal: cd jrz
+cd jrz
+'''
 
 ![Screenshot 2023-12-23 at 3 27 49 AM](https://github.com/sudo-self/web-server/assets/119916323/b89517bd-73a0-40bd-9637-da84208a9df2)
 
@@ -13,9 +15,12 @@ Terminal: cd jrz
 
 ### create a package.json
 
-Terminal: npm init
+'''
+npm init
+'''
 
 ### add a start script
+'''
 
 <code>
 
@@ -24,12 +29,15 @@ Terminal: npm init
 }
 
 </code>
+'''
 
 ### create server.js
+''''
 
-Terminal: sudo touch server.js
+sudo touch server.js
 
-Terminal: sudo nano server.js
+sudo nano server.js
+'''
 
 <code>
 

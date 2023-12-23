@@ -58,7 +58,7 @@ app.get('/', (req, res) => {
   res.send('JRz Web-Server!');
 });
 
-// Listen to the App Engine-specified port, or 8001 otherwise
+// Listen to the specified port otherwise 8001
 const PORT = process.env.PORT || 8001;
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}...`);

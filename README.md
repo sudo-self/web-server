@@ -6,9 +6,6 @@ sudo mkdir jrz
 cd jrz
 
 ```
-![Screenshot 2023-12-23 at 3 27 49 AM](https://github.com/sudo-self/web-server/assets/119916323/b89517bd-73a0-40bd-9637-da84208a9df2)
-
-
 ### install <a href="https://nodejs.org/en/download/">Node.JS</a>
 
 ### create a package.json

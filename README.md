@@ -2,9 +2,9 @@
 
 ### create a project folder
 
-sudo mkdir jrz
+Terminal: sudo mkdir jrz
 
-cd jrz
+Terminal: cd jrz
 
 ![Screenshot 2023-12-23 at 3 27 49 AM](https://github.com/sudo-self/web-server/assets/119916323/b89517bd-73a0-40bd-9637-da84208a9df2)
 
@@ -13,7 +13,7 @@ cd jrz
 
 ### create a package.json
 
-npm init
+Terminal: npm init
 
 ### add a start script
 
@@ -27,9 +27,9 @@ npm init
 
 ### create server.js
 
-sudo touch server.js
+Terminal: sudo touch server.js
 
-sudo nano server.js
+Terminal: sudo nano server.js
 
 <code>
 
@@ -50,7 +50,7 @@ app.listen(PORT, () => {
 
 ### start the web server 
 
-npm run start
+Terminal: npm run start
 
 ![Screenshot 2023-12-23 at 3 29 43 AM](https://github.com/sudo-self/web-server/assets/119916323/a9ac057d-cf7e-4915-a6e6-039204fff232)
 

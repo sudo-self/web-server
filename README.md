@@ -81,10 +81,16 @@ https://localhost:8001
 sudo touch app.yaml
 runtime: nodejs16
 ```
+### create a README.md
+
+```
+sudo touch README.md
+```
 
 ### Project Folder<br>
   package.json<br>
   server.js<br> 
-  app.yaml<br>  
+  app.yaml<br>
+  README.md<br>
 
   

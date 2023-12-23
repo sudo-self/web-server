@@ -1,4 +1,4 @@
-# web server with node.js
+# web-server
 
 ### create a project folder
 

@@ -1,6 +1,6 @@
-# simple web server with node.js
+# web server with node.js
 
-### create a project folder:
+### create a project folder
 
 sudo mkdir jrz
 

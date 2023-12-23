@@ -25,7 +25,7 @@ npm init
 
 </code>
 
-### create a server.js
+### create server.js
 
 sudo touch server.js
 

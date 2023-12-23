@@ -37,7 +37,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('Hello from App Engine!');
+  res.send('JRz Web-Server!');
 });
 
 // Listen to the App Engine-specified port, or 8001 otherwise
